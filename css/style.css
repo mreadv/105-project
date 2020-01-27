@@ -14,3 +14,11 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+
+div {
+	align-content: center;
+}
+
+div img {
+	width: 400px;
+}
